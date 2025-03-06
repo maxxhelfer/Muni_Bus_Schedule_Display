@@ -1,0 +1,4 @@
+requests
+waveshare-epd
+python-dotenv
+pillow
