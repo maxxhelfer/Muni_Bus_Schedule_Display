@@ -3,6 +3,7 @@
 Based off of the idea from [singapore-bus-timing-edisplay](https://github.com/awesomelionel/singapore-bus-timing-edisplay/tree/main) but for San Francisco Muni (SFMTA).
 
 This project creates an E-Ink display that shows real-time San Francisco Muni bus arrival times and current weather conditions. It uses data from the [511.org](https://511.org/developer-resources/transit) API for bus arrival times and [WeatherAPI.com](https://www.weatherapi.com/) for live weather updates. The display is powered by a Raspberry Pi Zero 2W and a Waveshare 7.5-inch E-Ink screen.
+![Frame-28-04-2025-01-34-51](https://github.com/user-attachments/assets/4b7f41ef-f286-4b20-bf1d-ecb6762c2101)
 
 ## Features
 - Displays real-time Muni bus arrival times for selected stops.
